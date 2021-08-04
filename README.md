@@ -9,7 +9,18 @@ The main focus of the Data Analyst is to draw meaningful insight or answer a giv
 * Understand the qualifications of a Data Analyst position
 * Understand the skills and experience needed to secure a Data Analyst position
 
-## Data Analyst Job Description  
+## Data Analyst Job Description Examples  
+
+>
+
+## Data Analyst Resources  
+
+* 
+* 
+* 
+
+## Summary  
+
 
  
 
